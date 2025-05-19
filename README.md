@@ -13,5 +13,5 @@ API para automação do WhatsApp, semelhante à Evolution API, com interface de 
 *Configuração*
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/Wesleybarroso/sara-api.git
-   cd sara-api
+   git clone https://github.com/Wesleybarroso/Sara-API.git
+   cd Sara-API
